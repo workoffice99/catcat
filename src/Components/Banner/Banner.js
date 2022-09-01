@@ -17,7 +17,7 @@ export default function Banner() {
         className="row flex-column-reverse flex-md-row
  "
       >
-        <Fade left>
+        <Fade right>
           <div className="col-sm-12 col-lg-7  text-light ">
             <div className="">
               <p className=" fs-5 fw-bold ">WELCOME TO THE Bored Fancy Cats!</p>
